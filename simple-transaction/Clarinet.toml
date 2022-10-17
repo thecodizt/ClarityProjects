@@ -1,0 +1,22 @@
+[project]
+name = 'simple-transaction'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.simple-transaction]
+path = 'contracts/simple-transaction.clar'
+clarity_version = 1
+
+[contracts.simple-transaction-trait]
+path = 'contracts/simple-transaction-trait.clar'
+clarity_version = 1
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
