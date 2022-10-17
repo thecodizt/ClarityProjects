@@ -22,6 +22,8 @@
   )
 )
 
+;; read-only functions
+;;
 (define-read-only (get-sender-balance) 
   (begin
     (asserts! (> (stx-get-balance tx-sender) u0) ERR-ZERO-BALANCE)

@@ -1,0 +1,22 @@
+[project]
+name = 'fundraiser'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.fundraiser]
+path = 'contracts/fundraiser.clar'
+clarity_version = 1
+
+[contracts.fundraiser-trait]
+path = 'contracts/fundraiser-trait.clar'
+clarity_version = 1
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
