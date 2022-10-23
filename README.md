@@ -15,7 +15,7 @@ This contract enables the transfer of STX tokens from one account to another sea
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/simple-transaction)
 - [Github Gist](https://gist.github.com/thecodizt/23588df1db510a020ad82eb1da78a83d)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x07d347d9b719e5e02f170a1d2c17e9b82d1e79aa0021568edf1e5bf7c3bd1b75?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/6KBqQZL4cYs)
 
 ### 📇 Fundraiser
 
@@ -24,7 +24,7 @@ This contract enables anyone to fund a clarity contract and the received funds c
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/fundraiser)
 - [Github Gist](https://gist.github.com/thecodizt/b04bfaa0975f5ea1c68eaa676cdf811a)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x06c8d594ba45604c2ed7a2e2190aa0883163e86946aa11173e1ea8df163e8167?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/pfxH0GthpIY)
 
 ### 📇 Auction
 
@@ -33,7 +33,7 @@ This contract enables a single item auction where a minimum bid can be set by th
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/auction)
 - [Github Gist](https://gist.github.com/thecodizt/58137989b0a59fc96f4e3021eef0f0d9)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x31dce8c8b2868dd170ea36d7fa82024cf01227c4cbdb5777da953a81f1c03f38?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/fmP-bx2ij2M)
 
 ### 📇 Legal Agreement
 
@@ -42,7 +42,7 @@ This contract enables the establishment of a legal agreement between 2 parties (
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/legal-agreement)
 - [Github Gist](https://gist.github.com/thecodizt/6e847854e94aec7053544d2fa756c462)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x8555f44e999d5074975ac871a4939ae07008c7d63bef7beb9481b88d37866c7c?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/wfBKUEovZIA)
 
 ### 📇 Delivery Tracking
 
@@ -51,7 +51,7 @@ This contract enables the real-time tracking of a delivery where the sender, mid
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/delivery-tracking)
 - [Github Gist](https://gist.github.com/thecodizt/a37bf6dac3e20ae9c254e9446f63334e)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0xedb8c5d56dd4418be9e796ee03e90f54aedca5a0940fe1695e15a7edfa2bc644?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/EZv4i2XvgAg)
 
 ## 🗻 Challenges Faced and Suggestions
 I had few struggles using the Sequence types and I'd suggest adding a bit more examples around it to make it easier to understand. Sequences are crucial for building complex and powerful contracts and having more documetation, I believe would bring down the learning curve a lot, increasing the number of users thereby.
@@ -62,6 +62,7 @@ I was introduced to the Clarity language in this hackathon and I am confident th
 ## 🔖 Relevant Details
 
 - Author: [Devaraja G](https://github.com/thecodizt)
+- Video Demo: [Youtube](https://youtu.be/ETj0tFYnvh8)
 - License: MIT
 
 

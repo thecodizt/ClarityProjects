@@ -1,11 +1,11 @@
-# Simple Transaction - Clarity Contract
+# Auction- Clarity Contract
 
 This contract enables a single item auction where a minimum bid can be set by the contract deployer and the product details can be provided via an URL (preferably via IPFS). Anyone can then bid on it and get the latest maximum bid. The contract deployer can then close the auction anytime they want after which the highest bidder can transfer the tokens for payment.
 
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/auction)
 - [Github Gist](https://gist.github.com/thecodizt/58137989b0a59fc96f4e3021eef0f0d9)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x31dce8c8b2868dd170ea36d7fa82024cf01227c4cbdb5777da953a81f1c03f38?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/fmP-bx2ij2M)
 
 ## Error Codes
 

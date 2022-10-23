@@ -5,7 +5,7 @@ This contract enables anyone to fund a clarity contract and the received funds c
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/fundraiser)
 - [Github Gist](https://gist.github.com/thecodizt/b04bfaa0975f5ea1c68eaa676cdf811a)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x06c8d594ba45604c2ed7a2e2190aa0883163e86946aa11173e1ea8df163e8167?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/pfxH0GthpIY)
 
 ## Error Codes
 

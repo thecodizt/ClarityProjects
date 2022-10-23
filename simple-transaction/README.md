@@ -5,7 +5,7 @@ This contract enables the transfer of STX tokens from one account to another sea
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/simple-transaction)
 - [Github Gist](https://gist.github.com/thecodizt/23588df1db510a020ad82eb1da78a83d)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x07d347d9b719e5e02f170a1d2c17e9b82d1e79aa0021568edf1e5bf7c3bd1b75?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/6KBqQZL4cYs)
 
 ## Error Codes
 

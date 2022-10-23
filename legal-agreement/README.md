@@ -5,6 +5,7 @@ This contract enables the establishment of a legal agreement between 2 parties (
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/legal-agreement)
 - [Github Gist](https://gist.github.com/thecodizt/6e847854e94aec7053544d2fa756c462)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0x8555f44e999d5074975ac871a4939ae07008c7d63bef7beb9481b88d37866c7c?chain=testnet)
+- [Video Demo](https://youtu.be/wfBKUEovZIA)
 
 ## Error Codes
 

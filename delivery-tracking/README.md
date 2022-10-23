@@ -5,7 +5,7 @@ This contract enables the real-time tracking of a delivery where the sender, mid
 - [Github Repo](https://github.com/thecodizt/ClarityProjects/tree/master/delivery-tracking)
 - [Github Gist](https://gist.github.com/thecodizt/a37bf6dac3e20ae9c254e9446f63334e)
 - [Contract (Testnet)](https://explorer.stacks.co/txid/0xedb8c5d56dd4418be9e796ee03e90f54aedca5a0940fe1695e15a7edfa2bc644?chain=testnet)
-- [Video Demo]()
+- [Video Demo](https://youtu.be/EZv4i2XvgAg)
 
 ## Error Codes
 
